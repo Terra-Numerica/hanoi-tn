@@ -2,6 +2,14 @@
 
 Conversion du projet Python/Tkinter **hanoi-tn** en TypeScript + Three.js, utilisant le **Framework Terra Numerica**.
 
+---
+
+## 🌐 Version en ligne
+Vous pouvez tester le jeu directement dans votre navigateur ici :  
+👉 **[https://terra-numerica.github.io/hanoi-tn/](https://terra-numerica.github.io/hanoi-tn/)**
+
+---
+
 ## Structure du projet
 
 ```
